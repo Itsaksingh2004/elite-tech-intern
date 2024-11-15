@@ -1,2 +1,3 @@
 # elite-tech-intern
- task for elite tech untern
+ task of elite tech intern
+ for web developer
